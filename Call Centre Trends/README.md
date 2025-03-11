@@ -1,41 +1,70 @@
-📊 Call Centre Trends – Power BI Dashboard
-🚀 Overview
-This Power BI dashboard was created as part of Task 2 of the PwC Virtual Internship, providing a data-driven analysis of call centre performance. The dashboard highlights customer satisfaction, agent efficiency, resolution rates, and peak call trends, helping businesses optimize operations.
+# Call Centre Trends Dashboard 📞📊
 
-🔍 Key Features
-✅ Customer Satisfaction & Resolution Rate
+## Overview
 
-Avg. Satisfaction: 3.4 (Moderate)
-Resolution Rate: 90% (Good but improvable)
-Unanswered Call Rate: 18.92% (Indicating inefficiencies)
-✅ Agent Performance & Call Handling
+🚀 This project is part of **PwC Virtual Internship Task 2**. The **Call Centre Trends Dashboard** provides key insights into customer interactions, agent performance, and call efficiency. It helps in identifying factors affecting customer satisfaction and suggests actionable improvements. The dashboard consists of two sections: **Overview and Conclusion**.
 
-Top Agents: Jim & Martha handle the most calls (~536 & 514)
-Least Calls: Joe & Stewart (~477 & 484)
-Peak Call Hours: 12 PM – 3 PM (Tues & Thurs busiest, Fridays high unanswered calls)
-✅ Call Topics & Distribution
+---
 
-Most Common Issues: Streaming (20.44%) & Contract Issues (20.38%)
-📌 Key Insights & Recommendations
-🔹 Improve Customer Satisfaction
+## Page 1: Overview 📊
 
-Train low-rated agents (Joe & Becky) on service quality
-Implement real-time customer feedback for quick improvements
-🔹 Reduce Unanswered Calls
+This section presents essential call center metrics:
 
-Optimize agent scheduling during peak hours
-Introduce automated callbacks & AI chatbots for basic queries
-🔹 Optimize Workload & Efficiency
+- **Total Calls:** **5,000**
+- **Avg. Satisfaction:** **3.4** (Moderate)
+- **Speed of Answer:** **67.5 sec**
+- **Avg. Call Duration:** **3m:45s**
+- **Resolution Rate:** **90%** (Good, but room for improvement)
+- **Abandoned Call Rate:** **18.92%**
 
-Assign specialized agents to frequent topics (Streaming, Contract)
-Use data-driven scheduling to match staffing with demand
-🎯 My Learnings
-This project enhanced my Power BI skills, particularly in:
-✅ DAX calculations for key metrics
-✅ Data modeling & relationships
-✅ Dashboard design & storytelling
+### **Agent Performance & Call Handling:**
+- **Total Calls by Agent:**
+  - **Jim & Martha** handle the most calls (**~536 & 514**), while **Joe & Stewart** handle the least (**~477 & 484**).
+  - **Martha & Dan** have the highest satisfaction, while **Joe & Becky** need improvement.
+- **Resolution & Unresolution Rate by Agent**
+- **Unanswered Calls:** **18.92%**, indicating inefficiencies.
+- **Peak Call Hours:** **12 PM - 3 PM** (Tuesdays & Thursdays busiest), **Fridays** have high unanswered calls.
 
-📢 Connect & Feedback
-Would love to hear your thoughts! Let’s connect and discuss insights! 🚀
+### **Call Topic Distribution:**
+- Common topics: **Streaming (20.44%) & Contract Issues (20.38%)**.
+- Other topics include **Admin Support, Payment Issues, and Technical Support**.
+- **Call trends based on weekdays & hourly correlation.**
 
-#PowerBI #DataAnalytics #PwCInternship #DAX #DashboardDesign #DataVisualization #CallCentreTrends
+---
+
+## Page 2: Insights & Suggestions 📈
+
+### **📢 Key Insights:**
+
+📌 **Customer Satisfaction & Resolution Rate:**
+- Avg. Satisfaction: **3.4** (Moderate, can be improved)
+- Resolution Rate: **90%**
+- **Martha & Dan** have the highest satisfaction, **Joe & Becky** need training.
+- **Unanswered Call Rate:** **18.92%** (Needs reduction)
+
+📌 **Agent Performance & Call Handling:**
+- **Jim & Martha** handle the most calls (**~536 & 514**), while **Joe & Stewart** handle the least (**~477 & 484**).
+- **Peak call hours:** **12 PM - 3 PM** (Tues & Thurs busiest).
+- **Fridays have the highest unanswered calls.**
+
+📌 **Call Topics & Distribution:**
+- **Streaming (20.44%) & Contract Issues (20.38%)** are the most common topics.
+
+### **🛠️ Strategic Recommendations:**
+
+🔹 **Improve Customer Satisfaction:**
+✔ Train **low-rated agents (Joe, Becky)** on service quality.
+✔ Implement **real-time customer feedback** for quick improvements.
+
+🔹 **Reduce Unanswered Calls:**
+✔ Optimize **agent scheduling** during peak hours.
+✔ Introduce **automated callbacks & AI chatbots** for basic queries.
+
+🔹 **Optimize Workload & Call Efficiency:**
+✔ Assign **specialized agents** to frequent topics (**Streaming, Contract**).
+✔ Use **data-driven scheduling** to match staffing with demand.
+
+---
+
+This dashboard provides actionable insights to improve **call center performance, enhance customer satisfaction, and optimize agent efficiency.** 🚀📞
+
