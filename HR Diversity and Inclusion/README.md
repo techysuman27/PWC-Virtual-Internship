@@ -29,7 +29,7 @@ Provides an overview of the HR dataset and page navigation menu.
 
 #### 📷 Screenshot:
 <p align="center">
-  <img src="images/home.png" alt="Home Page Screenshot">
+  <img src="images/cover.png" alt="Home Page Screenshot">
 </p>
 
 ---
