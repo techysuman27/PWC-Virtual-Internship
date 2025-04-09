@@ -69,7 +69,10 @@ Analyzes turnover rates and patterns by gender, experience, and role.
 - Highest turnover observed at the Senior Officer and Manager levels for women.
 
 #### 📷 Screenshot:
-![Turnover Page](.images/turnover.png)
+<p align="center">
+  <img src="images/turnover.png" alt="PayPal Logo" width="140"/>
+</p>
+
 
 📌 Visuals:
 - Turnover by experience (years since last hire)  
