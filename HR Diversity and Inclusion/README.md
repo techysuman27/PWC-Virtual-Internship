@@ -69,7 +69,7 @@ Analyzes turnover rates and patterns by gender, experience, and role.
 - Highest turnover observed at the Senior Officer and Manager levels for women.
 
 #### 📷 Screenshot:
-![Turnover Page](./Screenshot%20(870).png)
+![Turnover Page](.images/turnover.png)
 
 📌 Visuals:
 - Turnover by experience (years since last hire)  
