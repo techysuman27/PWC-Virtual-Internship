@@ -70,9 +70,8 @@ Analyzes turnover rates and patterns by gender, experience, and role.
 
 #### 📷 Screenshot:
 <p align="center">
-  <img src="images/turnover.png" alt="PayPal Logo" width="140"/>
+  <img src="images/turnover.png" alt="Turnover Page Screenshot">
 </p>
-
 
 📌 Visuals:
 - Turnover by experience (years since last hire)  
