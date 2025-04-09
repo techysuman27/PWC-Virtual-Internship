@@ -1,8 +1,10 @@
-# 💼 HR Diversity & Inclusion Dashboard (Virtual Case Experience – Forage)
+# 💼 HR Diversity & Inclusion Dashboard
 ![Banner](https://img.shields.io/badge/Power%20BI-Dashboard-blueviolet?style=flat&logo=powerbi)  
 
 A compelling HR Analytics dashboard built during the **PwC Virtual Case Experience** hosted on [Forage](https://www.theforage.com/). This project focuses on analyzing workforce **diversity, inclusion, hiring, promotion, and turnover patterns** using real-world inspired data.
 
+> 📊 **[🔗 Live Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiZmZmODdjZDQtMzU4NS00N2JhLWI1ZmMtNzNmMTFiODQ0MzM0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)**
+> 
 > 📅 Completed: March 2025  
 > 👤 Author: [Suman Sadhukhan](https://www.linkedin.com/in/suman-sadhukhan/)  
 > 🎓 Role: Aspiring Data Analyst | Dashboard Developer
