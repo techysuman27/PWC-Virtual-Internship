@@ -27,6 +27,11 @@ Provides an overview of the HR dataset and page navigation menu.
 - Interactive sidebar for seamless navigation  
 - Introductory design theme for branding
 
+#### 📷 Screenshot:
+<p align="center">
+  <img src="images/home.png" alt="Home Page Screenshot">
+</p>
+
 ---
 
 ### 👥 **2. Hiring Page**
@@ -36,7 +41,10 @@ Focuses on gender-based hiring distribution across departments and levels.
 - Hiring by department
 - Gender mix across job levels
 
-📸 *[Attach Image]*
+#### 📷 Screenshot:
+<p align="center">
+  <img src="images/hiring.png" alt="Hiring Page Screenshot">
+</p>
 
 ---
 
@@ -49,7 +57,9 @@ Highlights the promotion trends across gender, year, and job levels.
 - Executive-level promotion increase from 12.5% (2020) to 16% (2021) for women
 
 #### 📷 Screenshot:
-![Promotion Page](./Screenshot%20(869).png)
+<p align="center">
+  <img src="images/promotion.png" alt="Promotion Page Screenshot">
+</p>
 
 📌 Visuals:
 - Promotions by year and gender  
@@ -88,23 +98,25 @@ Summarizes insights and recommendations.
 - Address turnover causes in middle management  
 - Ensure equal access to performance evaluations
 
-📸 *[Attach Image]*
+#### 📷 Screenshot:
+<p align="center">
+  <img src="images/conclusion.png" alt="Conclusion Page Screenshot">
+</p>
 
 ---
 
 ## 🛠️ Tools Used
 
 - **Power BI** – Data Visualization & Dashboard Design  
--     
-- **DAX** – Custom measures and KPIs
+- **DAX** – Custom measures and KPIs  
 - **Figma** – Dashboard Wireframing and Designing
 
 ---
 
 ## 📈 Key Insights Summary
 
-- Women had **higher turnover rates** than men in most job levels.
-- Promotions improved over time for women, especially at executive levels.
+- Women had **higher turnover rates** than men in most job levels.  
+- Promotions improved over time for women, especially at executive levels.  
 - Disparities remain in certain job levels (e.g., Director and Manager) that require targeted HR interventions.
 
 ---
@@ -115,3 +127,9 @@ Summarizes insights and recommendations.
 - Real-world application of **HR analytics and DEI concepts**  
 - Importance of clear, data-driven storytelling  
 - Applied **DAX formulas** to calculate gender-specific KPIs
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
