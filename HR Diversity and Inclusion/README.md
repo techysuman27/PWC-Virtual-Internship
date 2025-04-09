@@ -1,6 +1,6 @@
-# 💼 PwC HR Diversity & Inclusion Dashboard (Virtual Case Experience – Forage)
-
+# 💼 HR Diversity & Inclusion Dashboard (Virtual Case Experience – Forage)
 ![Banner](https://img.shields.io/badge/Power%20BI-Dashboard-blueviolet?style=flat&logo=powerbi)  
+
 A compelling HR Analytics dashboard built during the **PwC Virtual Case Experience** hosted on [Forage](https://www.theforage.com/). This project focuses on analyzing workforce **diversity, inclusion, hiring, promotion, and turnover patterns** using real-world inspired data.
 
 > 📅 Completed: March 2025  
