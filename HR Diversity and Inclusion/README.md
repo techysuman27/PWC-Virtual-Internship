@@ -1,78 +1,115 @@
-# Telecom Customer Retention Dashboard 📊📡
+# 💼 PwC HR Diversity & Inclusion Dashboard (Virtual Case Experience – Forage)
 
-## Overview
+![Banner](https://img.shields.io/badge/Power%20BI-Dashboard-blueviolet?style=flat&logo=powerbi)  
+A compelling HR Analytics dashboard built during the **PwC Virtual Case Experience** hosted on [Forage](https://www.theforage.com/). This project focuses on analyzing workforce **diversity, inclusion, hiring, promotion, and turnover patterns** using real-world inspired data.
 
-🚀 This project is part of **PwC Virtual Experience Task 4 on Forage**. A telecom client is working to improve **gender balance at the executive level** but is facing challenges. PwC Switzerland is assisting them with **diversity and inclusion strategies**. Key measures include:
-
-The **Telecom Customer Retention Dashboard** provides **data-driven insights** into customer churn and loyalty patterns. It helps identify key factors affecting retention and offers strategic recommendations. The dashboard consists of five sections: **Cover, Overview, Customers, Services, and Conclusion.**
-
----
-
-## Page 1: Cover Page 🏠
-
-This page introduces the dashboard with the **company name "Phone Now"**, branding elements, and navigation options.
+> 📅 Completed: March 2025  
+> 👤 Author: [Suman Sadhukhan](https://www.linkedin.com/in/suman-sadhukhan/)  
+> 🎓 Role: Aspiring Data Analyst | Dashboard Developer
 
 ---
 
-## Page 2: Customer Overview 👥
+## 🧩 Objective
 
-This section presents essential retention metrics:
-
-- **Total Customers:** **7,043**
-- **Total Churned Customers:** **3,555**
-- **Total Loyal Customers:** **3,488**
-- **Contract Types:** Month-to-month contracts have the highest churn rate (**42% churn vs. 5% for 2-year contracts**).
-- **Payment Methods:** Electronic check users have a higher churn rate (**45% vs. 10% for credit cards**).
-- **Tenure:** Customers with **less than one year of tenure** have the highest churn (**2.1K churned customers**).
-
-### **📢 Key Insight:**
-
-Customers on **short-term contracts and electronic check payments** are at the highest risk. **Converting them to long-term plans and alternative payment methods can improve retention.**
+Analyze HR diversity and inclusion trends using visual analytics. The goal is to uncover disparities in:
+- Gender-based hiring
+- Promotion to leadership roles
+- Turnover trends
+- Job-level opportunities and performance
 
 ---
 
-## Page 3: Customers Analysis 🔍
+## 📊 Dashboard Pages Overview
 
-This page examines customer demographics and behaviors:
-
-- **Dependents:** Customers with dependents have a **lower churn rate**.
-- **Partner Status:** Married customers tend to stay longer.
-- **Paperless Billing:** Customers using **paperless billing show higher churn rates (50%)**.
-
-### **📢 Key Insight:**
-
-Targeting **paperless billing users with loyalty programs** and offering **family-oriented promotions** may improve retention.
+### 📌 **1. Home Page**
+Provides an overview of the HR dataset and page navigation menu.  
+🧭 Features:
+- Interactive sidebar for seamless navigation  
+- Introductory design theme for branding
 
 ---
 
-## Page 4: Services Analysis 📡
+### 👥 **2. Hiring Page**
+Focuses on gender-based hiring distribution across departments and levels.  
+💡 Visuals:
+- Total hires by gender
+- Hiring by department
+- Gender mix across job levels
 
-Analysis of services and their impact on churn:
-
-- **Internet Service:** Fiber optic users have a higher churn rate (**41.89%**), while DSL users show lower churn (**18.96%**).
-- **Phone Service:** Customers with phone service churn less.
-- **Tech Support:** Lack of tech support increases churn (**41.64% vs. 15.17% for users with support**).
-- **Streaming & Security Services:** Users of bundled services (streaming, security, device protection) churn less.
-
-### **📢 Key Insight:**
-
-Encouraging customers to **subscribe to tech support and security services** can **reduce churn**.
+📸 *[Attach Image]*
 
 ---
 
-## Page 5: Conclusion ✅
+### 🎯 **3. Promotion Page**
 
-The final page summarizes key findings and action points:
+Highlights the promotion trends across gender, year, and job levels.  
+**Key Metrics:**
+- 7.20% promotions in 2020  
+- 10.20% promotions in 2021  
+- Executive-level promotion increase from 12.5% (2020) to 16% (2021) for women
 
-- **High-risk customers:** Month-to-month contract users with electronic check payments.
-- **Retention strategies:** Offering **long-term contract incentives, improved tech support, and personalized engagement.**
-- **Value-added services:** Promoting **security, streaming, and device protection services** enhances loyalty.
+#### 📷 Screenshot:
+![Promotion Page](./Screenshot%20(869).png)
 
-### **📌 Strategic Recommendations:**
+📌 Visuals:
+- Promotions by year and gender  
+- Avg performance ratings  
+- Promotions at job level  
+- Executive-level gender comparison
 
-✔ **Offer discounts on long-term plans** for short-term contract users.
-✔ Encourage **alternative payment methods** to reduce electronic check churn.
-✔ Enhance **customer support services** and promote security features.
-✔ Implement **early engagement strategies** to retain first-year customers.
+---
 
-This dashboard provides actionable insights to improve **customer retention and reduce churn.** 🚀📊
+### 🔁 **4. Turnover Page**
+
+Analyzes turnover rates and patterns by gender, experience, and role.
+
+**Key Highlights:**
+- Turnover Rate: 10.8%  
+- Women Turnover: 10.24% > Men Turnover: 8.81%  
+- Highest turnover observed at the Senior Officer and Manager levels for women.
+
+#### 📷 Screenshot:
+![Turnover Page](./Screenshot%20(870).png)
+
+📌 Visuals:
+- Turnover by experience (years since last hire)  
+- Turnover by age group  
+- Turnover % by job level and gender
+
+---
+
+### 🧾 **5. Conclusion Page**
+
+Summarizes insights and recommendations.  
+💬 Key Takeaways:
+- Encourage leadership promotions for women  
+- Address turnover causes in middle management  
+- Ensure equal access to performance evaluations
+
+📸 *[Attach Image]*
+
+---
+
+## 🛠️ Tools Used
+
+- **Power BI** – Data Visualization & Dashboard Design  
+-     
+- **DAX** – Custom measures and KPIs
+- **Figma** – Dashboard Wireframing and Designing
+
+---
+
+## 📈 Key Insights Summary
+
+- Women had **higher turnover rates** than men in most job levels.
+- Promotions improved over time for women, especially at executive levels.
+- Disparities remain in certain job levels (e.g., Director and Manager) that require targeted HR interventions.
+
+---
+
+## 🧠 What I Learned
+
+- How to design **interactive dashboards** using best UX practices  
+- Real-world application of **HR analytics and DEI concepts**  
+- Importance of clear, data-driven storytelling  
+- Applied **DAX formulas** to calculate gender-specific KPIs
